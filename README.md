@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello There! 👋
+
+🙋‍♂️ My name is Andre Saliba, I'm a Web Developer and 3D Artist from Brazil, currently living in Nova Scotia, Canada 🍁
+
+🔭 I’m currently working on my portfolio website... [andresaliba.com](http://andresaliba.com/) (in construction 🏗) 
+
+🌱 I’m currently learning TypeScript with ReactJS
+
+🤔 I’m interested in learning new technologies, frameworks and fun stuff related to Hardware and Software!
 
 <!--
 **andresaliba/andresaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
