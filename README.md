@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my portfolio website... [andresaliba.com](http://andresaliba.com/) (in construction 🏗) 
 
-🤔 I’m interested in learning new frameworks and technologies, like edge and chatgpt!
+🤔 I’m always interested in learning new tech, like AI in web dev!
 
 🚲 My latest project: [Short Track](https://github.com/andresaliba/short-track-upgrades-Portfolio)
 
