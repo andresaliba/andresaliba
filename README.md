@@ -6,7 +6,7 @@
 
 🤔 I’m interested in learning new frameworks and technologies, like edge and chatgpt!
 
-🚲 My latest project: ...
+🚲 My latest project: [Short Track](https://github.com/andresaliba/short-track-upgrades-Portfolio)
 
 <!--
 **andresaliba/andresaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
