@@ -2,8 +2,6 @@
 
 🙋‍♂️ My name is Andre Saliba, I'm a Web Developer and 3D Artist from Brazil, currently living in São Paulo, Brazil 🇧🇷
 
-🔭 I’m currently working on my portfolio website... [andresaliba.com](http://andresaliba.com/) (in construction 🏗) 
-
 🤔 I’m always interested in learning new tech, like AI in web dev!
 
 🚲 My latest project: [Short Track](https://github.com/andresaliba/short-track-upgrades-Portfolio)
