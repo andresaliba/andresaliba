@@ -1,13 +1,8 @@
-### Hello There! 👋
+### Hello There! 
 
-🙋‍♂️ My name is Andre Saliba, I'm a Web Developer and 3D Artist from Brazil, currently living in São Paulo, Brazil 🇧🇷
+I'm currently a software developer building and maintaining cool products at @Ethosx in Brazil! 🇧🇷
 
-🤔 I’m always interested in learning new tech, like AI in web dev!
-
-🚲 My latest project: [Short Track](https://github.com/andresaliba/short-track-upgrades-Portfolio)
-
-📫 My Personal Website: [andresaliba.com](https://andresaliba.com/)
-
+https://dontasktoask.com/
 <!--
 **andresaliba/andresaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
