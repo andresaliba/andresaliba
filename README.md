@@ -1,6 +1,6 @@
 ### Hello There! 
 
-I'm currently a software developer building and maintaining cool products at @Ethosx in Brazil! 🇧🇷
+I'm currently a software developer building and maintaining cool products at [@Ethosx](https://github.com/Ethosx) in Brazil! 🇧🇷
 
 https://dontasktoask.com/
 <!--
