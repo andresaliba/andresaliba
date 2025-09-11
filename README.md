@@ -1,8 +1,7 @@
 ### Hello There! 
 
-I'm currently a software developer building and maintaining cool products at [@Ethosx](https://github.com/Ethosx) in Brazil! 🇧🇷
+I'm currently a software developer in Brazil working on building products and pages! 🇧🇷
 
-https://dontasktoask.com/
 <!--
 **andresaliba/andresaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
